@@ -6,3 +6,5 @@ Some awesome repositories int GitHub.
   OnLine: [http://kushagragour.in/code-blast-codemirror/demo/index.html](http://kushagragour.in/code-blast-codemirror/demo/index.html)
   
 - [Code int the Dark](https://github.com/codeinthedark/codeinthedark.github.io)
+
+- [github/gitignore](https://github.com/github/gitignore)
