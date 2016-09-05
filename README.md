@@ -8,3 +8,5 @@ Some awesome repositories int GitHub.
 - [Code int the Dark](https://github.com/codeinthedark/codeinthedark.github.io)
 
 - [github/gitignore](https://github.com/github/gitignore)
+
+- [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
