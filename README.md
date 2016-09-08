@@ -1,6 +1,8 @@
 # Awesome_Others
 Some awesome repositories int GitHub.
 
+## Unclassified
+
 - [Awesome Power Mode](https://github.com/codeinthedark/awesome-power-mode)
 
   OnLine: [http://kushagragour.in/code-blast-codemirror/demo/index.html](http://kushagragour.in/code-blast-codemirror/demo/index.html)
@@ -11,4 +13,8 @@ Some awesome repositories int GitHub.
 
 - [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
 
+## Proxy Software
+
 - [racaljk/hosts](https://github.com/racaljk/hosts)
+
+- [getlantern/lantern](https://github.com/getlantern/lantern)
