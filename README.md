@@ -10,3 +10,5 @@ Some awesome repositories int GitHub.
 - [github/gitignore](https://github.com/github/gitignore)
 
 - [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
+
+- [racaljk/hosts](https://github.com/racaljk/hosts)
