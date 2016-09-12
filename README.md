@@ -1,5 +1,5 @@
 # Awesome_Others
-Some awesome repositories int GitHub.
+Some awesome repositories in GitHub.
 
 ## Unclassified
 
