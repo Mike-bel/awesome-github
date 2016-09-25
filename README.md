@@ -22,3 +22,5 @@ Some awesome repositories in GitHub.
 ## GitHub Organizations
 
 - [android-cn](https://github.com/android-cn)
+
+- [Tencent](https://github.com/Tencent)
