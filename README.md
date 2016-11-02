@@ -28,3 +28,5 @@ Some awesome repositories in GitHub.
 - [DevLight](https://github.com/DevLight-Mobile-Agency)
 
 - [Cleveroad](https://github.com/Cleveroad)
+
+- [Yalantis](https://github.com/Yalantis)
