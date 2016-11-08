@@ -1,7 +1,8 @@
-# Awesome_Others
-Some awesome repositories in GitHub.
+# Awesome-Others
 
-## Unclassified
+Some awesome resources on github.
+
+# Unclassified
 
 - [Awesome Power Mode](https://github.com/codeinthedark/awesome-power-mode)
 
@@ -13,7 +14,7 @@ Some awesome repositories in GitHub.
 
 - [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
 
-## Proxy Software
+# Proxy Software
 
 - [racaljk/hosts](https://github.com/racaljk/hosts)
 
