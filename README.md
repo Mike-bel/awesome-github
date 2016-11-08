@@ -19,6 +19,12 @@ Some awesome repositories in GitHub.
 
 - [getlantern/lantern](https://github.com/getlantern/lantern)
 
+# E-Books
+
+- [The Linux Command Line](http://billie66.github.io/TLCL)
+
+  About shell.
+
 ## GitHub Organizations
 
 - [android-cn](https://github.com/android-cn)
