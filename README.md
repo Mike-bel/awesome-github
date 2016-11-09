@@ -1,4 +1,4 @@
-# Awesome-Others
+# Awesome-GitHub
 
 Some awesome resources on github.
 
@@ -13,6 +13,12 @@ Some awesome resources on github.
 - [github/gitignore](https://github.com/github/gitignore)
 
 - [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
+
+# Terminal
+
+- [iTerm2](https://github.com/gnachman/iTerm2)
+
+- [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
 
 # Proxy Software
 
