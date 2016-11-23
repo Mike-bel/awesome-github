@@ -20,11 +20,23 @@ Some awesome resources on github.
 
 - [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
 
-# Proxy Software
+# Proxy
 
-- [racaljk/hosts](https://github.com/racaljk/hosts)
+- VPN
 
-- [getlantern/lantern](https://github.com/getlantern/lantern)
+  - [racaljk/hosts](https://github.com/racaljk/hosts)
+
+  - [getlantern/lantern](https://github.com/getlantern/lantern)
+  
+- Http Proxy
+
+  - [mitmproxy](https://mitmproxy.org/)
+  
+  References: [How to debug HTTP(S) traffic on Android](https://medium.com/@rotxed/how-to-debug-http-s-traffic-on-android-7fbe5d2a34#.g8qv0t93t)
+  
+  - [Charles](https://www.charlesproxy.com/)
+  
+  - [Fiddler](http://www.telerik.com/fiddler)
 
 # E-Books
 
