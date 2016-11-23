@@ -32,7 +32,7 @@ Some awesome resources on github.
 
   - [mitmproxy](https://mitmproxy.org/)
   
-  References: [How to debug HTTP(S) traffic on Android](https://medium.com/@rotxed/how-to-debug-http-s-traffic-on-android-7fbe5d2a34#.g8qv0t93t)
+    References: [How to debug HTTP(S) traffic on Android](https://medium.com/@rotxed/how-to-debug-http-s-traffic-on-android-7fbe5d2a34#.g8qv0t93t)
   
   - [Charles](https://www.charlesproxy.com/)
   
