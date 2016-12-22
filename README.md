@@ -41,8 +41,7 @@ Some awesome resources on github.
 # E-Books
 
 - [The Linux Command Line](http://billie66.github.io/TLCL)
-
-  About shell.
+ 
 
 ## GitHub Organizations
 
