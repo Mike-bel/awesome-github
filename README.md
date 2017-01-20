@@ -14,6 +14,12 @@ Some awesome resources on github.
 
 - [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
 
+# GitHub
+
+- [Shields.io](https://shields.io/)
+
+- [progressed.io](https://github.com/fehmicansaglam/progressed.io)
+
 # Terminal
 
 - [iTerm2](https://github.com/gnachman/iTerm2)
