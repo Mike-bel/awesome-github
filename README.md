@@ -14,6 +14,8 @@ Some awesome resources on github.
 
 - [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
 
+- [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+
 # GitHub
 
 - [Shields.io](https://shields.io/)
