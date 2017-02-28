@@ -25,7 +25,9 @@ Some awesome resources on github.
 - OpenSource Software Licenses
 
   - [Reference 01](http://blog.csdn.net/wadefelix/article/details/6384317)
+  
   - [Reference 02](http://www.jianshu.com/p/cceeafb019ed)
+  
   - [Reference 03](https://www.zhihu.com/question/28292322)
 
 # Terminal
