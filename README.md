@@ -22,6 +22,11 @@ Some awesome resources on github.
 
 - [progressed.io](https://github.com/fehmicansaglam/progressed.io)
 
+- OpenSource Software Licenses
+
+  - [Reference 01](http://blog.csdn.net/wadefelix/article/details/6384317)
+  - [Reference 02](http://www.jianshu.com/p/cceeafb019ed)
+
 # Terminal
 
 - [iTerm2](https://github.com/gnachman/iTerm2)
