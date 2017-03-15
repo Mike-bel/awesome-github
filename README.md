@@ -33,6 +33,10 @@ Some awesome resources on github.
 
 - [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
 
+# Code
+
+- [Google Style Guides](http://google.github.io/styleguide/)
+
 # Proxy
 
 - VPN
