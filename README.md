@@ -10,11 +10,19 @@ Some awesome resources on github.
   
 - [Code int the Dark](https://github.com/codeinthedark/codeinthedark.github.io)
 
-- [github/gitignore](https://github.com/github/gitignore)
-
 - [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
 
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+
+# Git
+
+- [github/gitignore](https://github.com/github/gitignore)
+
+- [gitignore.io](https://github.com/joeblau/gitignore.io)
+  
+  Create useful .gitignore files for your project.
+  
+  See OnLine : [https://www.gitignore.io/](https://www.gitignore.io/)
 
 # GitHub
 
