@@ -10,6 +10,8 @@ Some awesome resources on github.
   
 - [Code int the Dark](https://github.com/codeinthedark/codeinthedark.github.io)
 
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+
 - [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
 
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
