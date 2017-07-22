@@ -47,6 +47,12 @@ Some awesome resources on github.
 
 - [Google Style Guides](http://google.github.io/styleguide/)
 
+- [Google 开源项目风格指南 (中文版)](http://zh-google-styleguide.readthedocs.io/en/latest/)
+
+- [Google Java 编程规范（中文版）](https://www.gitbook.com/book/jervyshi/google-java-styleguide-zh/details)
+
+  Or Blog：[Google Java编程风格指南](http://www.hawstein.com/posts/google-java-style.html)
+
 # Proxy
 
 - VPN
