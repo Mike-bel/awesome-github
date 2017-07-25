@@ -16,6 +16,8 @@ Some awesome resources on github.
 
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
 
+- [http://thesecretlivesofdata.com/raft/](http://thesecretlivesofdata.com/raft/)
+
 # Git
 
 - [github/gitignore](https://github.com/github/gitignore)
