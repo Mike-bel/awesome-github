@@ -18,6 +18,10 @@ Some awesome resources on github.
 
 - [http://thesecretlivesofdata.com/raft/](http://thesecretlivesofdata.com/raft/)
 
+- [ipd](https://github.com/mpolden/ipd)
+
+  A simple service for looking up your IP address. This is the code that powers https://ifconfig.co
+
 # Git
 
 - [github/gitignore](https://github.com/github/gitignore)
