@@ -87,6 +87,7 @@ Some awesome resources on github.
 
 - [The Linux Command Line](http://billie66.github.io/TLCL)
  
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 ## GitHub Organizations
 
