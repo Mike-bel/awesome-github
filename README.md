@@ -22,6 +22,10 @@ Some awesome resources on github.
 
   A simple service for looking up your IP address. This is the code that powers https://ifconfig.co
   
+- [beautiful-docs](https://github.com/PharkMillups/beautiful-docs)
+
+  Here's a list of docs and other developer resources that myself and others find particularly useful, well-written, and otherwise "beautiful."
+  
 # API
 
 - [jokermonn/-Api](https://github.com/jokermonn/-Api)
