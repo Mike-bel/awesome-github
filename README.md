@@ -98,6 +98,8 @@ Some awesome resources on github.
  
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
+- [区块链技术指南](https://www.gitbook.com/book/yeasy/blockchain_guide/details)
+
 ## GitHub Organizations
 
 - [android-cn](https://github.com/android-cn)
