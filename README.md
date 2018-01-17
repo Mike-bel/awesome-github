@@ -111,3 +111,7 @@ Some awesome resources on github.
 - [Cleveroad](https://github.com/Cleveroad)
 
 - [Yalantis](https://github.com/Yalantis)
+
+## Resumes
+
+- [ResumeSample](https://github.com/geekcompany/ResumeSample)
