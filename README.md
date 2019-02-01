@@ -102,6 +102,8 @@ Some awesome resources on github.
 
 ## GitHub Organizations
 
+- [Material Components](https://github.com/material-components)
+
 - [android-cn](https://github.com/android-cn)
 
 - [Tencent](https://github.com/Tencent)
