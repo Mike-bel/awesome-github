@@ -57,6 +57,10 @@ Some awesome resources on github.
 - [github-profile-summary](https://github.com/tipsy/github-profile-summary)
 
   live at [https://github-profile-summary.com/](https://github-profile-summary.com/)
+  
+- [github-gazer](https://github.com/pingao777/github-gazer)
+
+  A graphical tool to witness repository stargazers trend and activity
 
 # Terminal
 
