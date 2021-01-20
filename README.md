@@ -78,13 +78,17 @@ Some awesome resources on github.
 
   Or Blog：[Google Java编程风格指南](http://www.hawstein.com/posts/google-java-style.html)
 
-# Proxy
+# Network Proxy
 
 - VPN
 
   - [racaljk/hosts](https://github.com/racaljk/hosts)
 
   - [getlantern/lantern](https://github.com/getlantern/lantern)
+  
+  - [trojan-gfw/trojan](https://github.com/trojan-gfw/trojan)
+  
+  - [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core)
   
 - Http Proxy
 
